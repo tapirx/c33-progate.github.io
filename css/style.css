@@ -123,7 +123,7 @@ header {
   border-radius: 2px;
 }
 
-header .menu-icon {
+.menu-icon {
   color: white;
   float: right;
   font-size: 25px;
